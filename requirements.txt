@@ -1,0 +1,8 @@
+pandas
+matplotlib
+python-dotenv
+watchdog
+pywhatkit
+google-genai
+langchain-ollama
+pywin32
