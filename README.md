@@ -53,17 +53,29 @@ Sends reports directly through WhatsApp Business Cloud API without opening Whats
 ## Project Structure
 
 Personal_Project/
+
 │
+
 ├── run_service.py
+
 ├── business_guard.py
+
 ├── send_whatsapp.py
+
 ├── .env
+
 │
+
 ├── cloud_ai_gemini/
+
 │ └── ai_analyst.py
+
 │
+
 ├── processed/
+
 ├── failed/
+
 └── Client_Upload/
 
 
