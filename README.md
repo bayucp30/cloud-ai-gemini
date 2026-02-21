@@ -67,15 +67,10 @@ Personal_Project/
 │
 
 ├── cloud_ai_gemini/
-
 │ └── ai_analyst.py
-
 │
-
 ├── processed/
-
 ├── failed/
-
 └── Client_Upload/
 
 
