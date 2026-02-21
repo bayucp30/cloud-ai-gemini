@@ -84,15 +84,25 @@ Personal_Project/
 ## System Architecture
 
 Client Upload CSV
+
 ↓
+
 AI Analytics Engine
+
 ↓
+
 Business Guard Module
+
 ↓
+
 Report Generation
+
 ↓
+
 WhatsApp Business Cloud API
+
 ↓
+
 Business Owner Notification
 
 All processes run fully on backend infrastructure.
