@@ -130,8 +130,11 @@ pip install -r requirements.txt
 Add the following environment variables:
 
 GEMINI_API_KEY=your_gemini_api_key
+
 WA_TOKEN=your_whatsapp_access_token
+
 WA_PHONE_ID=your_whatsapp_phone_id
+
 WA_TARGET=628xxxxxxxxxx
 
 ---
