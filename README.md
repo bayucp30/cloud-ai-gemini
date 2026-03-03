@@ -206,4 +206,6 @@ It demonstrates integration between data analytics, automation, AI narrative gen
 ## Author
 
 **Bayu Chandra Putra**  
-Data Analyst | Data enthusiast | linkedin.com/in/bayuchandraputra
+Data Analyst | Data Enthusiast
+
+https://linkedin.com/in/bayuchandraputra
