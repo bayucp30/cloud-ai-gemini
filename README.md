@@ -208,4 +208,4 @@ It demonstrates integration between data analytics, automation, AI narrative gen
 **Bayu Chandra Putra**  
 Data Analyst | Data Enthusiast
 
-https://linkedin.com/in/bayuchandraputra
+Let's Connect!! https://linkedin.com/in/bayuchandraputra
