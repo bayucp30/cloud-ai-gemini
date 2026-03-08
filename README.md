@@ -209,3 +209,4 @@ It demonstrates integration between data analytics, automation, AI narrative gen
 Data Analyst | Data Enthusiast | Computer Science | Data Science
 
 Let's Connect!! https://linkedin.com/in/bayuchandraputra
+Gmail: bayucp34@gmail.com
