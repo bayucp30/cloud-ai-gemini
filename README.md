@@ -1,4 +1,4 @@
-# AI Retail Business Monitoring System (On-Progress!!! 🥲🥲)
+# AI Retail Business Monitoring System (not done yet🥲)
 
 ## Overview
 
