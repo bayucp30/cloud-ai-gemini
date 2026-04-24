@@ -1,4 +1,4 @@
-# AI Retail Business Monitoring System (ongoing)
+# AI Retail Business Monitoring System (ongoing!)
 
 ## Overview
 
@@ -208,4 +208,5 @@ It demonstrates integration between data analytics, automation, AI narrative gen
 **Bayu Chandra Putra**  
 Data Analyst | Data Enthusiast | Computer Science 
 LinkedIn https://linkedin.com/in/bayuchandraputra
+
 Mail: officialbayucp@gmail.com
